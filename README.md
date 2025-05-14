@@ -9,6 +9,11 @@ This project is a modular **Jakarta EE 10** enterprise application developed usi
   
 ---
 
+## 📽️ Demo Video
+[![Java EAR Project Demo](https://github.com/chamikathereal/Java-EAR/blob/main/Java-EAR.png)](https://youtu.be/i2yy2shVH9Y)
+
+---
+
 ## 📦 Project Structure
 
 ```
