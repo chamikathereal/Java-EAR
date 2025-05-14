@@ -79,15 +79,25 @@ JIAT-EAR/
 * Improve the front-end using JSP/JSF or modern frontend frameworks.
 * Add authentication and authorization using Jakarta Security.
 
-## 👨‍💻 Author
+---
 
-**Chamika Indudunu**
-📧 [chamikathereal@gmail.com](mailto:chamikathereal@gmail.com)
-📍 Sri Lanka
+## 📎 License
 
-## 📁 License
+This project is licensed under the [MIT License](LICENSE).
 
-This project is licensed under the MIT License. Feel free to use and modify it for learning or enterprise purposes.
+---
+
+## 🤝 Contributing
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+---
+
+## 🧑‍💻 Author
+
+**Chamika Gayashan**  
+Undergraduate Software Engineer | Sri Lanka  
+Linkedin: [@chamikathereal](https://www.linkedin.com/in/chamikathereal/)
 
 
 
